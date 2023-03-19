@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mithilmusk2118@gmail.com**
 
-- ⚡ Fun fact **I am space science explorer.**
+- ⚡ Fun fact **I am a space science explorer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
