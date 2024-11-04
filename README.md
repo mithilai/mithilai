@@ -6,13 +6,13 @@ Hey, I’m Mithil! Growing up in a small town, I’ve always dreamed of becoming
 
 
 <p align="left">
-   <a href="https://www.youtube.com/@ScientificMyth" target="blank">
+   <a href="https://www.youtube.com/@ScientificMyth" target="_blank">
       <img alt="YouTube" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
    </a>
-   <a href="https://github.com/mithilai" target="blank">
+   <a href="https://github.com/mithilai" target="_blank">
       <img alt="GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
    </a>
-   <a href="https://www.linkedin.com/in/mithil-maske-408588225/" target="blank">
+   <a href="https://www.linkedin.com/in/mithil-maske-408588225/" target="_blank">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </p>
@@ -39,15 +39,17 @@ Hey, I’m Mithil! Growing up in a small town, I’ve always dreamed of becoming
 
 ### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)](https://ytcards.demolab.com/?id=zX4u3SudI-0&title=3+Coding+Projects+to+Break+the+Coding+Barrier+%28w%2F+Instructions+Included%29&lang=en&timestamp=1730728856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)")](https://www.youtube.com/watch?v=zX4u3SudI-0)
-[![A Day in the Life of a Software Engineer](https://ytcards.demolab.com/?id=WBl31Pyr_M8&title=A+Day+in+the+Life+of+a+Software+Engineer&lang=en&timestamp=1730376039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2259 "A Day in the Life of a Software Engineer")](https://www.youtube.com/watch?v=WBl31Pyr_M8)
-[![Coding a Realtime App with TypeScript](https://ytcards.demolab.com/?id=e85uJvX5geA&title=Coding+a+Realtime+App+with+TypeScript&lang=en&timestamp=1730125816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=606 "Coding a Realtime App with TypeScript")](https://www.youtube.com/watch?v=e85uJvX5geA)
-[![8 Data Structures Every Programmer Should Know](https://ytcards.demolab.com/?id=gxdQiBkidWk&title=8+Data+Structures+Every+Programmer+Should+Know&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "8 Data Structures Every Programmer Should Know")](https://www.youtube.com/watch?v=gxdQiBkidWk)
-[![Programmers Need More Math](https://ytcards.demolab.com/?id=gHRVhL1fZC0&title=Programmers+Need+More+Math&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317 "Programmers Need More Math")](https://www.youtube.com/watch?v=gHRVhL1fZC0)
-[![How to DESTROY Developer Productivity (avoid at all costs)](https://ytcards.demolab.com/?id=vl6SQZWRaks&title=How+to+DESTROY+Developer+Productivity+%28avoid+at+all+costs%29&lang=en&timestamp=1725462064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=784 "How to DESTROY Developer Productivity (avoid at all costs)")](https://www.youtube.com/watch?v=vl6SQZWRaks)
-<!-- END YOUTUBE-CARDS -->
+#### Long Videos
+[![Non-Invasive Diabetes Prediction Project](https://ytcards.demolab.com/?id=tXiVuTLMv98&title=Non-Invasive+Diabetes+Prediction+Project&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "Non-Invasive Diabetes Prediction Project")](https://youtu.be/tXiVuTLMv98)
+[![AR Card Tutorial Series](https://ytcards.demolab.com/?id=f6TPUrc7F5g&title=AR+Card+Tutorial+Series&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1200 "AR Card Tutorial Series")](https://youtu.be/f6TPUrc7F5g)
 
+#### Shorts
+[![Logistic Regression Algorithm & Code in Easy Way](https://ytcards.demolab.com/?id=29zdNHDuc6A&title=Logistic+Regression+Algorithm+%26+Code+in+Easy+Way&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Logistic Regression Algorithm & Code in Easy Way")](https://youtube.com/shorts/29zdNHDuc6A?feature=share)
+[![Web Scraping News Headlines Using Python](https://ytcards.demolab.com/?id=UDugdq4LS7k&title=Web+Scraping+News+Headlines+Using+Python&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Web Scraping News Headlines Using Python")](https://youtube.com/shorts/UDugdq4LS7k)
+[![Send Emails Using Python](https://ytcards.demolab.com/?id=4TLVnD3CFVc&title=Send+Emails+Using+Python&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Send Emails Using Python")](https://youtube.com/shorts/4TLVnD3CFVc)
+[![Make Text to Speech AI Using Python](https://ytcards.demolab.com/?id=-Br-hdP2HOo&title=Make+Text+to+Speech+AI+Using+Python&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Make Text to Speech AI Using Python")](https://youtube.com/shorts/-Br-hdP2HOo)
+
+### 🎥 Subscribe for More
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
