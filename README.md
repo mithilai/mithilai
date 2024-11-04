@@ -41,7 +41,7 @@ Hey, I’m Mithil! Growing up in a small town, I’ve always dreamed of becoming
 
 #### Long Videos
 [![Non-Invasive Diabetes Prediction Project](https://ytcards.demolab.com/?id=tXiVuTLMv98&title=Non-Invasive+Diabetes+Prediction+Project&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "Non-Invasive Diabetes Prediction Project")](https://youtu.be/tXiVuTLMv98)
-[![AR Card Tutorial Series](https://ytcards.demolab.com/?id=f6TPUrc7F5g&title=AR+Card+Tutorial+Series&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1200 "AR Card Tutorial Series")](https://youtu.be/f6TPUrc7F5g)
+[![AR Card Tutorial Series](https://ytcards.demolab.com/?id=f6TPUrc7F5g&title=AR+Card+Tutorial+Series&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1200 "AR Card Tutorial Series")](https://youtube.com/playlist?list=PLm4UQsyndlBNcFUqCx6qeFXRCjh16rOKB&si=k0ww702Vi-bZVQda)
 
 #### Shorts
 [![Logistic Regression Algorithm & Code in Easy Way](https://ytcards.demolab.com/?id=29zdNHDuc6A&title=Logistic+Regression+Algorithm+%26+Code+in+Easy+Way&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Logistic Regression Algorithm & Code in Easy Way")](https://youtube.com/shorts/29zdNHDuc6A?feature=share)
