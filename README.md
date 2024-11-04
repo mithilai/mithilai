@@ -4,6 +4,18 @@
 
 Hey, I’m Mithil! Growing up in a small town, I’ve always dreamed of becoming an inventor and scientist. Here on GitHub, I share my work in machine learning and natural language processing, capturing the milestones along the way. I also run a [YouTube channel](https://www.youtube.com/@ScientificMyth) where I post tutorials and project updates, hoping to inspire and connect with others on similar journeys. As a self-taught learner, I'm now seeking a mentor to help guide me further along the path to innovation. My goal? To craft engineering marvels that make a real impact.
 
+<p align="left">
+   <a href="https://www.youtube.com/@ScientificMyth" target="_blank">
+      <img alt="YouTube" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+   </a>
+   <a href="https://github.com/mithilai" target="_blank">
+      <img alt="GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+   </a>
+   <a href="https://www.linkedin.com/in/mithil-maske-408588225/" target="_blank">
+      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+</p>
+
 ### About Advaidh
 
 I co-founded **Advaidh**, a software services company focused on building innovative solutions in emerging technologies like AR and AI. We aim to empower businesses with cutting-edge digital tools, delivering impactful solutions.
@@ -23,17 +35,7 @@ I co-founded **Advaidh**, a software services company focused on building innova
    </a>
 </p>
 
-<p align="left">
-   <a href="https://www.youtube.com/@ScientificMyth" target="_blank">
-      <img alt="YouTube" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-   </a>
-   <a href="https://github.com/mithilai" target="_blank">
-      <img alt="GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-   </a>
-   <a href="https://www.linkedin.com/in/mithil-maske-408588225/" target="_blank">
-      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-</p>
+
 
 ---
 
