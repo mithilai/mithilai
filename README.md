@@ -6,13 +6,13 @@ Hey, I’m Mithil! Growing up in a small town, I’ve always dreamed of becoming
 
 
 <p align="left">
-   <a href="https://www.youtube.com/@ScientificMyth" target="_blank">
+   <a href="https://www.youtube.com/@ScientificMyth" target="blank">
       <img alt="YouTube" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
    </a>
-   <a href="https://github.com/mithilai" target="_blank">
+   <a href="https://github.com/mithilai" target="blank">
       <img alt="GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
    </a>
-   <a href="https://www.linkedin.com/in/mithil-maske-408588225/" target="_blank">
+   <a href="https://www.linkedin.com/in/mithil-maske-408588225/" target="blank">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </p>
