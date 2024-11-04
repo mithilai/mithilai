@@ -1,33 +1,68 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmxXdFI1Z2h3M2RhamRwUEZBTHVUTWU4b2h3QXxBQ3Jtc0ttdnU4WDQtN1RuUGpYV1BZbmpZR242UEtPM1pqSTBZUS1WNXpnb3ZBNklzVDVSU01aSjltSFFFLU95TERvUXR3TEhULTd6X1BseDVWRjJIaDFBZUZvMEhhWW40U0Q0bWZ3RFhGbVRucnNob1d2Szk5RQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)]
-<h1 align="center">Hi 👋, I'm Mithil Maske</h1>
-<h3 align="center">A passionate Machine Learning Programmer</h3>
+# 🏄‍♂️ Mithil Maske
 
-<img align = "right" alt = "coding" width="400" src = "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNzRzBncXlwSmR0UWlDTHp4UU96bjRuTnpuUXxBQ3Jtc0tuRXJXbjY3alUxX1BZVTQ3MExKR3B2VUNQdlNONmFKc1RxcmtfX0JiOE5jSHZIMVBhaHlkaDBIeTR0M25yaVZQYzVOS25YUThoNm9MNEYxNVBZX016MXN4Mk1QbW0wZVIwVjlQLXpHSVhTOHR4UzU2SQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE">
+**`Creator and Learner`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithilai&label=Profile%20views&color=0e75b6&style=flat" alt="mithilai" /> </p>
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
 
-- 🌱 I’m currently learning **Machine learning and Advance Artificial intelligence building**
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-- 💬 Ask me about **Supervised Learning, Semi-Supervised learning, Artificial Intelligence**
+---
 
-- 📫 How to reach me **mithilmusk2118@gmail.com**
+### 🧰 Languages and Tools
 
-- ⚡ Fun fact **I am a space science explorer.**
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/maskemithil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maskemithil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mithil maske" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithil maske" height="30" width="40" /></a>
-<a href="https://kaggle.com/mithilmaske" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mithilmaske" height="30" width="40" /></a>
-<a href="https://instagram.com/vigyanakrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vigyanakrama" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/scientific myth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scientific myth" height="30" width="40" /></a>
-</p>
+#
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 📺 Latest YouTube Videos
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithilai&show_icons=true&locale=en&layout=compact" alt="mithilai" /></p>
+<!-- BEGIN YOUTUBE-CARDS -->
+[![3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)](https://ytcards.demolab.com/?id=zX4u3SudI-0&title=3+Coding+Projects+to+Break+the+Coding+Barrier+%28w%2F+Instructions+Included%29&lang=en&timestamp=1730728856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)")](https://www.youtube.com/watch?v=zX4u3SudI-0)
+[![A Day in the Life of a Software Engineer](https://ytcards.demolab.com/?id=WBl31Pyr_M8&title=A+Day+in+the+Life+of+a+Software+Engineer&lang=en&timestamp=1730376039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2259 "A Day in the Life of a Software Engineer")](https://www.youtube.com/watch?v=WBl31Pyr_M8)
+[![Coding a Realtime App with TypeScript](https://ytcards.demolab.com/?id=e85uJvX5geA&title=Coding+a+Realtime+App+with+TypeScript&lang=en&timestamp=1730125816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=606 "Coding a Realtime App with TypeScript")](https://www.youtube.com/watch?v=e85uJvX5geA)
+[![8 Data Structures Every Programmer Should Know](https://ytcards.demolab.com/?id=gxdQiBkidWk&title=8+Data+Structures+Every+Programmer+Should+Know&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "8 Data Structures Every Programmer Should Know")](https://www.youtube.com/watch?v=gxdQiBkidWk)
+[![Programmers Need More Math](https://ytcards.demolab.com/?id=gHRVhL1fZC0&title=Programmers+Need+More+Math&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317 "Programmers Need More Math")](https://www.youtube.com/watch?v=gHRVhL1fZC0)
+[![How to DESTROY Developer Productivity (avoid at all costs)](https://ytcards.demolab.com/?id=vl6SQZWRaks&title=How+to+DESTROY+Developer+Productivity+%28avoid+at+all+costs%29&lang=en&timestamp=1725462064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=784 "How to DESTROY Developer Productivity (avoid at all costs)")](https://www.youtube.com/watch?v=vl6SQZWRaks)
+<!-- END YOUTUBE-CARDS -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithilai&show_icons=true&locale=en" alt="mithilai" /></p>
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithilai&" alt="mithilai" /></p>
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+-->
+[youtube]: https://www.youtube.com/@ScientificMyth
