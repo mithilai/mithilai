@@ -25,7 +25,7 @@ Hey, I’m Mithil! Growing up in a small town, I’ve always dreamed of becoming
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://static.streamlit.io/favicon/apple-touch-icon.png" />
+<img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9fXmvYXGk4L4Lb5UBjNDuWMW3npE8NXO_ow&s" />
 <img align="left" alt="Hugging Face" width="30px" style="padding-right:10px;" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
 <img align="left" alt="NLTK" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK.png" />
 <img align="left" alt="LangChain" width="30px" style="padding-right:10px;" src="https://www.langchain.dev/_static/favicon.ico" />
