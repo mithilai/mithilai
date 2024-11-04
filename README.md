@@ -27,8 +27,8 @@ Hey, I’m Mithil! Growing up in a small town, I’ve always dreamed of becoming
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" />
 <img align="left" alt="Hugging Face" width="30px" style="padding-right:10px;" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
-<img align="left" alt="NLTK" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK.png" />
-<img align="left" alt="LangChain" width="30px" style="padding-right:10px;" src="https://www.langchain.dev/_static/favicon.ico" />
+<img align="left" alt="Chormadb" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/498d9a3b-e25c-4081-8152-5436fa8ecfad" />
+<img align="left" alt="LangChain" width="30px" style="padding-right:10px;" src="https://api.nuget.org/v3-flatcontainer/langchain/0.15.2/icon" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
