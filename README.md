@@ -9,7 +9,7 @@ Hey, I’m Mithil! Growing up in a small town, I’ve always dreamed of becoming
 I co-founded **Advaidh**, a software services company focused on building innovative solutions in emerging technologies like AR and AI. We aim to empower businesses with cutting-edge digital tools, delivering impactful solutions.
 
 <p align="left">
-   <a href="https://advaidh-app-kunalgsolankis-projects.vercel.app/" target="_blank">
+   <a href="https://www.advaidh.in/" target="_blank">
       <img alt="Website" title="Visit Advaidh's Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
    </a>
    <a href="https://www.instagram.com/advaidh_team/" target="_blank">
