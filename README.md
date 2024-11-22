@@ -1,4 +1,4 @@
-# 🏄‍♂️ Mithil Maske  
+# 🤖 Mithil Maske  
 
 **`AI Enthusiast | Creator and Learner`**  
 
