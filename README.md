@@ -1,12 +1,16 @@
-# 🏄‍♂️ Mithil Maske
+# 🏄‍♂️ Mithil Maske  
 
-**`Creator and Learner`**
+**`AI Enthusiast | Creator and Learner`**  
 
-Hey, I’m Mithil! Growing up in a small town, I’ve always dreamed of becoming an inventor and scientist. Here on GitHub, I share my work in machine learning and natural language processing, capturing the milestones along the way. I also run a [YouTube channel](https://www.youtube.com/@ScientificMyth) where I post tutorials and project updates, hoping to inspire and connect with others on similar journeys. As a self-taught learner, I'm now seeking a mentor to help guide me further along the path to innovation. My goal? To craft engineering marvels that make a real impact.
+Hi, I’m Mithil! Growing up in a small town, I always dreamed of building inventions that could make a difference. Here on GitHub, I share my journey in **machine learning** and **natural language processing (NLP)**. From small experiments to meaningful milestones, this is where I document my progress.  
 
-### About Advaidh
+I also run a [YouTube channel](https://www.youtube.com/@ScientificMyth) where I share tutorials and project updates, hoping to inspire others with similar interests. I’m a self-taught learner constantly exploring new ideas and now looking for a mentor to guide me further. My ultimate goal? To create engineering solutions that truly impact lives.  
 
-I co-founded **Advaidh**, a software services company focused on building innovative solutions in emerging technologies like AR and AI. We aim to empower businesses with cutting-edge digital tools, delivering impactful solutions.
+---
+
+### About Advaidh  
+
+I co-founded **Advaidh**, a small startup focused on providing software solutions in emerging technologies like **Augmented Reality (AR)** and **Artificial Intelligence (AI)**. We’re working on helping businesses by creating digital tools that can make a real difference. It’s still early days for us, but we’re excited about the possibilities and learning as we go.  
 
 <p align="left">
    <a href="https://www.advaidh.in/" target="_blank">
@@ -21,7 +25,8 @@ I co-founded **Advaidh**, a software services company focused on building innova
    <a href="https://www.youtube.com/@advaidh" target="_blank">
       <img alt="YouTube" title="Subscribe to Advaidh's YouTube Channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
    </a>
-</p>
+</p>  
+
 
 
 
