@@ -8,30 +8,6 @@ I also run a [YouTube channel](https://www.youtube.com/@ScientificMyth) where I 
 
 ---
 
-### About Advaidh  
-
-I co-founded **Advaidh**, a small startup focused on providing software solutions in emerging technologies like **Augmented Reality (AR)** and **Artificial Intelligence (AI)**. We’re working on helping businesses by creating digital tools that can make a real difference. It’s still early days for us, but we’re excited about the possibilities and learning as we go.  
-
-<p align="left">
-   <a href="https://www.advaidh.in/" target="_blank">
-      <img alt="Website" title="Visit Advaidh's Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-   </a>
-   <a href="https://www.instagram.com/advaidh_team/" target="_blank">
-      <img alt="Instagram" title="Follow Advaidh on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-   </a>
-   <a href="https://www.linkedin.com/company/advaidh/" target="_blank">
-      <img alt="LinkedIn" title="Connect with Advaidh on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://www.youtube.com/@advaidh" target="_blank">
-      <img alt="YouTube" title="Subscribe to Advaidh's YouTube Channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-   </a>
-</p>  
-
-
-
-
----
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
