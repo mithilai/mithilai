@@ -11,17 +11,6 @@ Hi, I’m Mithil! I’m passionate about **Artificial Intelligence, Machine Lear
 
 ---
 
-## 🗂️ Portfolio Highlights  
-
-- 🚀 **[Non-Invasive Diabetes Prediction](https://github.com/Mithil-Maske/diabetes-prediction)** – Machine learning for early diabetes prediction.  
-- 🧠 **[Fake Review Detection with GCN](https://github.com/Mithil-Maske/fake-review-detection)** – Detecting fake vs real reviews with graph neural networks.  
-- 🖼️ **[Cervical Cancer Classification](https://github.com/Mithil-Maske/cervical-cancer-classification)** – Deep learning for medical image classification.  
-- 🎙️ **[Speech-to-Text for Speech Disorders](https://github.com/Mithil-Maske/speech-to-text-model)** – Accessible AI for speech-impaired individuals.  
-
-🔗 [Explore my full portfolio →](https://mithil-ai.vercel.app)  
-
----
-
 ## 📝 Latest Medium Articles  
 
 _(I write about AI, ML, and hands-on tutorials)_  
@@ -54,20 +43,3 @@ _(I write about AI, ML, and hands-on tutorials)_
 [![Send Emails Using Python](https://ytcards.demolab.com/?id=4TLVnD3CFVc&title=Send+Emails+Using+Python&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://youtube.com/shorts/4TLVnD3CFVc)
 
 ➡️ [Subscribe on YouTube](https://www.youtube.com/@ScientificMyth)  
-
----
-
-## 🧰 Skills & Tools  
-
-<p align="left">
-<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img alt="PyTorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img alt="Streamlit" width="40px" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" />
-<img alt="Hugging Face" width="40px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
-<img alt="ChromaDB" width="40px" src="https://github.com/user-attachments/assets/498d9a3b-e25c-4081-8152-5436fa8ecfad" />
-<img alt="LangChain" width="40px" src="https://api.nuget.org/v3-flatcontainer/langchain/0.15.2/icon" />
-<img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</p>
