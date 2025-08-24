@@ -12,7 +12,7 @@ Hi, I’m Mithil! I’m passionate about **Artificial Intelligence, Machine Lear
 ---
 
 ### 💬 Chat With My AI Bot
-[![Chatbot](https://img.shields.io/badge/Talk%20to%20My%20AI-Chat%20Now-brightgreen?style=for-the-badge&logo=chatbot)](https://mithil-ai.vercel.app/chat)
+[![Chatbot](https://img.shields.io/badge/Talk%20to%20My%20AI-Chat%20Now-brightgreen?style=for-the-badge&logo=chatbot)](https://mithil-ai.vercel.app/)
 
 ---
 
