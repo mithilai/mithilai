@@ -7,10 +7,12 @@ Hi, I’m Mithil! I’m passionate about **Artificial Intelligence, Machine Lear
 🌐 **Portfolio:** [mithil-ai.vercel.app](https://mithil-ai.vercel.app)  
 ✍️ **Medium:** [@mithilmaske](https://medium.com/@mithilmaske)  
 💼 **LinkedIn:** [Mithil Maske](https://www.linkedin.com/in/mithil-maske-408588225/)  
-📺 **YouTube:** [Scientific Myth](https://www.youtube.com/@ScientificMyth)  
+📺 **YouTube:** [Scientific Myth](https://www.youtube.com/@ScientificMyth)
 
-[![Chat with my AI bot](https://github.com/user-attachments/assets/fake-chat-ui.png)](https://mithil-ai.vercel.app/chat)
+---
 
+### 💬 Chat With My AI Bot
+[![Chatbot](https://img.shields.io/badge/Talk%20to%20My%20AI-Chat%20Now-brightgreen?style=for-the-badge&logo=chatbot)](https://mithil-ai.vercel.app/chat)
 
 ---
 
