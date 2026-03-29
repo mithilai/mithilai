@@ -4,7 +4,7 @@
 
 Hi, I’m Mithil! I’m passionate about **Artificial Intelligence, Machine Learning, and NLP**, and I enjoy building projects that can make a real-world impact. From healthcare applications to accessible AI solutions, I document my journey and share knowledge through **projects, articles, and tutorials**.  
 
-🌐 **Portfolio:** [mithil-ai.vercel.app](https://mithil-ai-vert.vercel.app/)  
+🌐 **Portfolio:** [Mithil.ai](https://mithil-ai-vert.vercel.app/)  
 ✍️ **Medium:** [@mithilmaske](https://medium.com/@mithilmaske)  
 💼 **LinkedIn:** [Mithil Maske](https://www.linkedin.com/in/mithil-maske/)  
 📺 **YouTube:** [Mithil Maske](https://www.youtube.com/@ScientificMyth)
