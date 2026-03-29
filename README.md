@@ -48,3 +48,6 @@ _(I write about AI, ML, and hands-on tutorials)_
 [![Send Emails Using Python](https://ytcards.demolab.com/?id=4TLVnD3CFVc&title=Send+Emails+Using+Python&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://youtube.com/shorts/4TLVnD3CFVc)
 
 ➡️ [Subscribe on YouTube](https://www.youtube.com/@ScientificMyth)  
+
+---
+_Last updated: March 2026_
