@@ -4,9 +4,9 @@
 
 Hi, I’m Mithil! I’m passionate about **Artificial Intelligence, Machine Learning, and NLP**, and I enjoy building projects that can make a real-world impact. From healthcare applications to accessible AI solutions, I document my journey and share knowledge through **projects, articles, and tutorials**.  
 
-🌐 **Portfolio:** [mithil-ai.vercel.app](https://mithil-ai.vercel.app)  
+🌐 **Portfolio:** [mithil-ai.vercel.app](https://mithil-ai-vert.vercel.app/)  
 ✍️ **Medium:** [@mithilmaske](https://medium.com/@mithilmaske)  
-💼 **LinkedIn:** [Mithil Maske](https://www.linkedin.com/in/mithil-maske-408588225/)  
+💼 **LinkedIn:** [Mithil Maske](https://www.linkedin.com/in/mithil-maske/)  
 📺 **YouTube:** [Mithil Maske](https://www.youtube.com/@ScientificMyth)
 
 ---
@@ -48,6 +48,3 @@ _(I write about AI, ML, and hands-on tutorials)_
 [![Send Emails Using Python](https://ytcards.demolab.com/?id=4TLVnD3CFVc&title=Send+Emails+Using+Python&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://youtube.com/shorts/4TLVnD3CFVc)
 
 ➡️ [Subscribe on YouTube](https://www.youtube.com/@ScientificMyth)  
-
----
-_Last updated: March 2026_
