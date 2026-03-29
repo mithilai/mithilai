@@ -7,7 +7,7 @@ Hi, I’m Mithil! I’m passionate about **Artificial Intelligence, Machine Lear
 🌐 **Portfolio:** [Mithil.ai](https://mithil-ai-vert.vercel.app/)  
 ✍️ **Medium:** [@mithilmaske](https://medium.com/@mithilmaske)  
 💼 **LinkedIn:** [Mithil Maske](https://www.linkedin.com/in/mithil-maske/)  
-📺 **YouTube:** [Mithil Maske](https://www.youtube.com/@ScientificMyth)
+📺 **YouTube:** [Mithil Maske](https://www.youtube.com/@mithilmaske)
 
 ---
 
