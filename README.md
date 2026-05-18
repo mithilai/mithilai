@@ -38,9 +38,6 @@ _(I write about AI, ML, and hands-on tutorials)_
 
 ## 🎥 Featured YouTube Content  
 
-#### 🎬 Long Videos  
-[![Non-Invasive Diabetes Prediction Project](https://ytcards.demolab.com/?id=tXiVuTLMv98&title=Non-Invasive+Diabetes+Prediction+Project&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343)](https://youtu.be/tXiVuTLMv98)
-[![AR Card Tutorial Series](https://ytcards.demolab.com/?id=f6TPUrc7F5g&title=AR+Card+Tutorial+Series&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1200)](https://youtube.com/playlist?list=PLm4UQsyndlBNcFUqCx6qeFXRCjh16rOKB)
 
 #### ⚡ Shorts  
 [![Logistic Regression in Simple Terms](https://ytcards.demolab.com/?id=29zdNHDuc6A&title=Logistic+Regression+Algorithm+Explained&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://youtube.com/shorts/29zdNHDuc6A)
