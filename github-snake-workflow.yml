@@ -1,13 +1,18 @@
 # Copy this file into your OTHER repo — the one named exactly "mithilai"
 # (the profile-README repo, github.com/mithilai/mithilai) — not this portfolio repo.
-# Path inside that repo: .github/workflows/snake.yml
+# Path inside that repo: .github/workflows/profile-readme.yml
 #
-# After it's added, GitHub Actions will run once a day (and on push) to generate
-# an animated snake that "eats" your contribution graph, publish it to a branch
-# named "output", and the <img> already added to mithilai.md points at that file.
-# The very first run may take a minute or two to appear after it's merged.
+# This does two things on a schedule:
+#   1. Generates the animated snake that "eats" your contribution graph
+#      (published to a branch named "output" — the <img> in mithilai.md already
+#      points at it).
+#   2. Refreshes the list between <!-- YOUTUBE:START --> / <!-- YOUTUBE:END -->
+#      in mithilai.md with your 3 actual latest videos, pulled live from your
+#      real YouTube RSS feed (same feed your portfolio site reads from).
+#
+# The first run may take a minute or two to show up after it's merged.
 
-name: generate animated snake
+name: refresh profile readme
 
 on:
   schedule:
@@ -18,7 +23,7 @@ on:
       - main
 
 jobs:
-  generate:
+  snake:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -36,3 +41,17 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  youtube:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCdUcDdwM0tZLHnqj1VO2iKQ"
+          max_post_count: 3
+          template: "- 🎬 [$title]($url)"
+          readme_path: "./mithilai.md"
