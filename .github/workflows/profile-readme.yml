@@ -40,15 +40,7 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCdUcDdwM0tZLHnqj1VO2iKQ"
+          custom_tags: "videoId/yt:videoId/"
           max_post_count: 3
-          template: "- 🎬 [$title]($url)"
-          readme_path: "./README.md"
-
-      - name: Refresh Medium articles
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "MEDIUM"
-          feed_list: "https://medium.com/feed/@mithilmaske"
-          max_post_count: 3
-          template: "- 📝 [$title]($url)"
+          template: '<a href="$url"><img src="https://img.youtube.com/vi/$videoId/hqdefault.jpg" width="240"/></a><br/><a href="$url"><strong>$title</strong></a>$newline'
           readme_path: "./README.md"
