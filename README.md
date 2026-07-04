@@ -71,12 +71,12 @@ I build and ship neural network systems — from early research prototypes to pr
 
 ## From the channel
 
-<!-- YOUTUBE:START -->
-<a href="https://www.youtube.com/watch?v=eBeUKFJUwGk"><img src="https://img.youtube.com/vi/eBeUKFJUwGk/hqdefault.jpg" width="240"/></a><br/><a href="https://www.youtube.com/watch?v=eBeUKFJUwGk"><strong>n8n Beginner Tutorial Build Your First Automation Workflow</strong></a>
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=eBeUKFJUwGk"><img src="https://img.youtube.com/vi/eBeUKFJUwGk/hqdefault.jpg" width="240"/></a><br/><a href="https://www.youtube.com/watch?v=eBeUKFJUwGk"><strong>n8n Beginner Tutorial Build Your First Automation Workflow</strong></a>
 
 <a href="https://www.youtube.com/watch?v=j5ncEWpeVd4"><img src="https://img.youtube.com/vi/j5ncEWpeVd4/hqdefault.jpg" width="240"/></a><br/><a href="https://www.youtube.com/watch?v=j5ncEWpeVd4"><strong>How to Self Host n8n on Your Computer Using Docker Beginner Guide | Part - 2</strong></a>
 
 <a href="https://www.youtube.com/watch?v=a07_8acSG-M"><img src="https://img.youtube.com/vi/a07_8acSG-M/hqdefault.jpg" width="240"/></a><br/><a href="https://www.youtube.com/watch?v=a07_8acSG-M"><strong>How to Self Host n8n on Your Computer Using Docker Beginner Guide | Part - 1</strong></a>
+
 <!-- YOUTUBE:END -->
 
 [Subscribe on YouTube →](https://www.youtube.com/@mithilmaske)
