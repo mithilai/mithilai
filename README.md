@@ -35,7 +35,7 @@ I build and ship neural network systems — from early research prototypes to pr
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithilai&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-trophies.vercel.app/?username=mithilai&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 <p align="center">
@@ -50,17 +50,8 @@ I build and ship neural network systems — from early research prototypes to pr
 
 ## Latest writing
 
-<a href="https://medium.com/@mithilmaske">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mithilmaske/0" alt="Recent Article 1">
-</a>
-
-<a href="https://medium.com/@mithilmaske">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mithilmaske/1" alt="Recent Article 2">
-</a>
-
-<a href="https://medium.com/@mithilmaske">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mithilmaske/2" alt="Recent Article 3">
-</a>
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 [Read all articles on Medium →](https://medium.com/@mithilmaske)
 

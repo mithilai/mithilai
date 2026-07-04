@@ -1,17 +1,3 @@
-# Copy this file into your OTHER repo — the one named exactly "mithilai"
-# (the profile-README repo, github.com/mithilai/mithilai) — not this portfolio repo.
-# Path inside that repo: .github/workflows/profile-readme.yml
-#
-# This does two things on a schedule:
-#   1. Generates the animated snake that "eats" your contribution graph
-#      (published to a branch named "output" — the <img> in mithilai.md already
-#      points at it).
-#   2. Refreshes the list between <!-- YOUTUBE:START --> / <!-- YOUTUBE:END -->
-#      in mithilai.md with your 3 actual latest videos, pulled live from your
-#      real YouTube RSS feed (same feed your portfolio site reads from).
-#
-# The first run may take a minute or two to show up after it's merged.
-
 name: refresh profile readme
 
 on:
@@ -42,16 +28,27 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  youtube:
+  fetch-content:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
+
+      - name: Refresh YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCdUcDdwM0tZLHnqj1VO2iKQ"
           max_post_count: 3
           template: "- 🎬 [$title]($url)"
-          readme_path: "./mithilai.md"
+          readme_path: "./README.md"
+
+      - name: Refresh Medium articles
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "MEDIUM"
+          feed_list: "https://medium.com/feed/@mithilmaske"
+          max_post_count: 3
+          template: "- 📝 [$title]($url)"
+          readme_path: "./README.md"
