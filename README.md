@@ -50,8 +50,7 @@ I build and ship neural network systems — from early research prototypes to pr
 
 ## Latest writing
 
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- MEDIUM:START -->- 📝 [How to Build a Vision Language Model from Scratch Using Q-Former, Contrastive Learning, and LoRA](https://medium.com/@mithilmaske/how-to-build-a-vision-language-model-from-scratch-using-q-former-contrastive-learning-and-lora-feeaa42af0b0?source=rss-8d19d7c20101------2)- 📝 [Spread-Spectrum Watermarking: The Invisible Signature in Your Audio &amp; Video](https://medium.com/@mithilmaske/spread-spectrum-watermarking-the-invisible-signature-in-your-audio-video-7f3f5805cba7?source=rss-8d19d7c20101------2)- 📝 [Giving Claude Eyes: Building a World Aware Agent with Model Context Protocol and Local Vision…](https://medium.com/@mithilmaske/giving-claude-eyes-building-a-world-aware-agent-with-model-context-protocol-and-local-vision-5c1ecedc01c4?source=rss-8d19d7c20101------2)<!-- MEDIUM:END -->
 
 [Read all articles on Medium →](https://medium.com/@mithilmaske)
 
