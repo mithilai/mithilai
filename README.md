@@ -59,11 +59,7 @@ I build and ship neural network systems — from early research prototypes to pr
 
 ## From the channel
 
-<!-- YOUTUBE:START -->
-- 🎬 [n8n Beginner Tutorial: Build Your First Automation Workflow](https://www.youtube.com/watch?v=eBeUKFJUwGk)
-- 🎬 [How to Self Host n8n on Your Computer Using Docker Beginner Guide | Part - 2](https://www.youtube.com/watch?v=j5ncEWpeVd4)
-- 🎬 [How to Self Host n8n on Your Computer Using Docker Beginner Guide | Part - 1](https://www.youtube.com/watch?v=a07_8acSG-M)
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->- 🎬 [n8n Beginner Tutorial Build Your First Automation Workflow](https://www.youtube.com/watch?v=eBeUKFJUwGk)- 🎬 [How to Self Host n8n on Your Computer Using Docker Beginner Guide | Part - 2](https://www.youtube.com/watch?v=j5ncEWpeVd4)- 🎬 [How to Self Host n8n on Your Computer Using Docker Beginner Guide | Part - 1](https://www.youtube.com/watch?v=a07_8acSG-M)<!-- YOUTUBE:END -->
 
 [Subscribe on YouTube →](https://www.youtube.com/@mithilmaske)
 
