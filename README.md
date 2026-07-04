@@ -53,6 +53,7 @@ I build and ship neural network systems — from early research prototypes to pr
 
 ## Latest writing
 
+<<<<<<< HEAD
 <a href="https://medium.com/@mithilmaske">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mithilmaske/0" alt="Recent Article 1">
 </a>
@@ -64,6 +65,9 @@ I build and ship neural network systems — from early research prototypes to pr
 <a href="https://medium.com/@mithilmaske">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mithilmaske/2" alt="Recent Article 3">
 </a>
+=======
+<!-- MEDIUM:START -->- 📝 [How to Build a Vision Language Model from Scratch Using Q-Former, Contrastive Learning, and LoRA](https://medium.com/@mithilmaske/how-to-build-a-vision-language-model-from-scratch-using-q-former-contrastive-learning-and-lora-feeaa42af0b0?source=rss-8d19d7c20101------2)- 📝 [Spread-Spectrum Watermarking: The Invisible Signature in Your Audio &amp; Video](https://medium.com/@mithilmaske/spread-spectrum-watermarking-the-invisible-signature-in-your-audio-video-7f3f5805cba7?source=rss-8d19d7c20101------2)- 📝 [Giving Claude Eyes: Building a World Aware Agent with Model Context Protocol and Local Vision…](https://medium.com/@mithilmaske/giving-claude-eyes-building-a-world-aware-agent-with-model-context-protocol-and-local-vision-5c1ecedc01c4?source=rss-8d19d7c20101------2)<!-- MEDIUM:END -->
+>>>>>>> 018e4ed83642440f325393792b39e30bdc263482
 
 [Read all articles on Medium →](https://medium.com/@mithilmaske)
 
@@ -71,6 +75,7 @@ I build and ship neural network systems — from early research prototypes to pr
 
 ## From the channel
 
+<<<<<<< HEAD
 <!-- YOUTUBE:START -->
 <a href="https://www.youtube.com/watch?v=eBeUKFJUwGk"><img src="https://img.youtube.com/vi/eBeUKFJUwGk/hqdefault.jpg" width="240"/></a><br/><a href="https://www.youtube.com/watch?v=eBeUKFJUwGk"><strong>n8n Beginner Tutorial: Build Your First Automation Workflow</strong></a>
 
@@ -78,6 +83,9 @@ I build and ship neural network systems — from early research prototypes to pr
 
 <a href="https://www.youtube.com/watch?v=a07_8acSG-M"><img src="https://img.youtube.com/vi/a07_8acSG-M/hqdefault.jpg" width="240"/></a><br/><a href="https://www.youtube.com/watch?v=a07_8acSG-M"><strong>How to Self Host n8n on Your Computer Using Docker Beginner Guide | Part - 1</strong></a>
 <!-- YOUTUBE:END -->
+=======
+<!-- YOUTUBE:START -->- 🎬 [n8n Beginner Tutorial Build Your First Automation Workflow](https://www.youtube.com/watch?v=eBeUKFJUwGk)- 🎬 [How to Self Host n8n on Your Computer Using Docker Beginner Guide | Part - 2](https://www.youtube.com/watch?v=j5ncEWpeVd4)- 🎬 [How to Self Host n8n on Your Computer Using Docker Beginner Guide | Part - 1](https://www.youtube.com/watch?v=a07_8acSG-M)<!-- YOUTUBE:END -->
+>>>>>>> 018e4ed83642440f325393792b39e30bdc263482
 
 [Subscribe on YouTube →](https://www.youtube.com/@mithilmaske)
 
