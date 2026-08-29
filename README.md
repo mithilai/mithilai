@@ -131,11 +131,10 @@ An end-to-end edge detection pipeline: train, optimise, deploy to a Raspberry Pi
 
 ## ◆ Writing
 
-<!-- BLOG:START -->
-- **[I Built a Multimodal Embedding Model From Scratch on an RTX 4060 (Text, Image, Audio, and Video…](https://medium.com/@mithilmaske/i-built-a-multimodal-embedding-model-from-scratch-on-an-rtx-4060-text-image-audio-and-video-ab1fef04f1cd)**<br/><sub>August 22, 2026</sub>
-- **[How I Implemented Self-Adapting Language Models with LoRA and QLoRA on an RTX 4060](https://medium.com/@mithilmaske/how-i-implemented-self-adapting-language-models-with-lora-and-qlora-on-an-rtx-4060-3d7e16a4d19e)**<br/><sub>July 25, 2026</sub>
-- **[How to Build a Vision-Language Model From Scratch Using Q-Former, Contrastive Learning and LoRA](https://medium.com/@mithilmaske/how-to-build-a-vision-language-model-from-scratch-using-q-former-contrastive-learning-and-lora-feeaa42af0b0)**<br/><sub>June 27, 2026</sub>
-- **[Spread-Spectrum Watermarking: The Invisible Signature in Your Audio & Video](https://medium.com/@mithilmaske/spread-spectrum-watermarking-the-invisible-signature-in-your-audio-video-7f3f5805cba7)**<br/><sub>June 20, 2026</sub>
+<!-- BLOG:START -->- **[I Built a Multimodal Embedding Model From Scratch on an RTX 4060 &lpar;Text, Image, Audio, and Video…](https://medium.com/@mithilmaske/i-built-a-multimodal-embedding-model-from-scratch-on-an-rtx-4060-text-image-audio-and-video-ab1fef04f1cd?source=rss-8d19d7c20101------2)**<br/><sub>August 22, 2026</sub>
+- **[How I implemented Self-Adapting Language Models with LoRA and QLoRA on an RTX 4060](https://python.plainenglish.io/how-i-implemented-self-adapting-language-models-with-lora-and-qlora-on-an-rtx-4060-3d7e16a4d19e?source=rss-8d19d7c20101------2)**<br/><sub>July 25, 2026</sub>
+- **[How to Build a Vision Language Model from Scratch Using Q-Former, Contrastive Learning, and LoRA](https://medium.com/@mithilmaske/how-to-build-a-vision-language-model-from-scratch-using-q-former-contrastive-learning-and-lora-feeaa42af0b0?source=rss-8d19d7c20101------2)**<br/><sub>June 27, 2026</sub>
+- **[Spread-Spectrum Watermarking: The Invisible Signature in Your Audio &amp; Video](https://medium.com/@mithilmaske/spread-spectrum-watermarking-the-invisible-signature-in-your-audio-video-7f3f5805cba7?source=rss-8d19d7c20101------2)**<br/><sub>June 20, 2026</sub>
 <!-- BLOG:END -->
 
 <sub><a href="https://medium.com/@mithilmaske">Everything on Medium &rarr;</a></sub>
