@@ -42,5 +42,15 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCdUcDdwM0tZLHnqj1VO2iKQ"
           custom_tags: "videoId/yt:videoId/"
           max_post_count: 3
-          template: '<a href="$url"><img src="https://img.youtube.com/vi/$videoId/hqdefault.jpg" width="240"/></a><br/><a href="$url"><strong>$title</strong></a>$newline$newline'
+          template: '<td align="center" width="33%"><a href="$url"><img src="https://img.youtube.com/vi/$videoId/hqdefault.jpg" width="100%"/></a><br/><a href="$url"><b>$title</b></a></td>'
+          readme_path: "./README.md"
+
+      - name: Refresh Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG"
+          feed_list: "https://medium.com/feed/@mithilmaske"
+          max_post_count: 4
+          date_format: "mmmm d, yyyy"
+          template: '- **[$title]($url)**<br/><sub>$date</sub>$newline'
           readme_path: "./README.md"
