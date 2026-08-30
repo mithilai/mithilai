@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mithil-ai-vert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F2430?style=for-the-badge&logo=vercel&logoColor=F5A623" /></a>
+  <a href="https://www.mithilmaske.com/"><img src="https://img.shields.io/badge/Portfolio-1F2430?style=for-the-badge&logo=vercel&logoColor=F5A623" /></a>
   <a href="https://medium.com/@mithilmaske"><img src="https://img.shields.io/badge/Medium-1F2430?style=for-the-badge&logo=medium&logoColor=F5A623" /></a>
   <a href="https://www.youtube.com/@mithilmaske"><img src="https://img.shields.io/badge/YouTube-1F2430?style=for-the-badge&logo=youtube&logoColor=F5A623" /></a>
   <a href="https://www.linkedin.com/in/mithil-maske/"><img src="https://img.shields.io/badge/LinkedIn-1F2430?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Y1QTYyMyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8+PC9zdmc+" /></a>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mithil-ai-vert.vercel.app/"><img src="https://img.shields.io/badge/%20-Talk%20to%20my%20AI%20%E2%86%92-1F2430?style=for-the-badge&logo=chatbot&logoColor=0B0C0F&labelColor=F5A623" /></a>
+  <a href="https://www.mithilmaske.com/"><img src="https://img.shields.io/badge/%20-Talk%20to%20my%20AI%20%E2%86%92-1F2430?style=for-the-badge&logo=chatbot&logoColor=0B0C0F&labelColor=F5A623" /></a>
 </p>
 
 ---
