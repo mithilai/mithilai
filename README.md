@@ -131,10 +131,10 @@ An end-to-end edge detection pipeline: train, optimise, deploy to a Raspberry Pi
 
 ## ◆ Writing
 
-<!-- BLOG:START -->- **[I Built STAIR From Scratch: A Retriever That Returns Section Names, Not Chunk IDs](https://medium.com/@mithilmaske/i-built-stair-from-scratch-a-retriever-that-returns-section-names-not-chunk-ids-22882a7b4cd8?source=rss-8d19d7c20101------2)**<br/><sub>September 20, 2026</sub>
+<!-- BLOG:START -->- **[What Is Jev? TypeSafe’s System One Model, Explained](https://medium.com/@mithilmaske/what-is-jev-typesafes-system-one-model-explained-b0a4d98ec263?source=rss-8d19d7c20101------2)**<br/><sub>September 26, 2026</sub>
+- **[I Built STAIR From Scratch: A Retriever That Returns Section Names, Not Chunk IDs](https://medium.com/@mithilmaske/i-built-stair-from-scratch-a-retriever-that-returns-section-names-not-chunk-ids-22882a7b4cd8?source=rss-8d19d7c20101------2)**<br/><sub>September 20, 2026</sub>
 - **[I Built a Multimodal Embedding Model From Scratch on an RTX 4060 &lpar;Text, Image, Audio, and Video…](https://medium.com/@mithilmaske/i-built-a-multimodal-embedding-model-from-scratch-on-an-rtx-4060-text-image-audio-and-video-ab1fef04f1cd?source=rss-8d19d7c20101------2)**<br/><sub>August 22, 2026</sub>
 - **[How I implemented Self-Adapting Language Models with LoRA and QLoRA on an RTX 4060](https://medium.com/@mithilmaske/how-i-implemented-self-adapting-language-models-with-lora-and-qlora-on-an-rtx-4060-3d7e16a4d19e?source=rss-8d19d7c20101------2)**<br/><sub>July 25, 2026</sub>
-- **[How to Build a Vision Language Model from Scratch Using Q-Former, Contrastive Learning, and LoRA](https://medium.com/@mithilmaske/how-to-build-a-vision-language-model-from-scratch-using-q-former-contrastive-learning-and-lora-feeaa42af0b0?source=rss-8d19d7c20101------2)**<br/><sub>June 27, 2026</sub>
 <!-- BLOG:END -->
 
 <sub><a href="https://medium.com/@mithilmaske">Everything on Medium &rarr;</a></sub>
