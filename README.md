@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>I build neural networks from scratch and write down exactly how they work.</b><br/>
-  <sub>Research prototypes to production pipelines. Most of it runs on hardware you probably already own.</sub>
+  <sub>I research and prototype neural network systems early — then take the ones that work into production.</sub>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.mithilmaske.com/"><img src="https://img.shields.io/badge/%20-Talk%20to%20my%20AI%20%E2%86%92-1F2430?style=for-the-badge&logo=chatbot&logoColor=0B0C0F&labelColor=F5A623" /></a>
+  <a href="https://www.mithilmaske.com/"><img src="https://img.shields.io/badge/%20-Talk%20to%20MIRA%2C%20my%20AI%20%E2%86%92-1F2430?style=for-the-badge&logo=chatbot&logoColor=0B0C0F&labelColor=F5A623" /></a>
 </p>
 
 ---
@@ -110,6 +110,57 @@ An end-to-end edge detection pipeline: train, optimise, deploy to a Raspberry Pi
 
 ---
 
+## ◆ Open source
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<sub>PYPI</sub><br/>
+**[quadembed](https://pypi.org/project/quadembed/)**<br/>
+<sub>Multimodal embeddings for text, image, audio and video in one vector space. Weights on Hugging Face.</sub>
+
+`pip install quadembed`
+
+</td>
+<td width="33%" valign="top">
+
+<sub>PYPI</sub><br/>
+**[gforge-python](https://pypi.org/project/gforge-python/)**<br/>
+<sub>A git firewall: a global pre-commit hook that blocks commits containing secrets.</sub>
+
+`pip install gforge-python`
+
+</td>
+<td width="33%" valign="top">
+
+<sub>HUGGING FACE</sub><br/>
+**[yolov8-license-plate-detector](https://huggingface.co/Mithil-AI/yolov8-license-plate-detector)**<br/>
+<sub>Edge-ready YOLOv8 detector exported to Keras, TFLite and Core ML.</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◆ Expertise
+
+<table>
+<tr>
+<td width="33%" valign="top"><b>Multimodal Video Intelligence</b></td>
+<td width="33%" valign="top"><b>Speech &amp; Real-Time Transcription</b></td>
+<td width="33%" valign="top"><b>Computer Vision at the Edge</b></td>
+</tr>
+<tr>
+<td valign="top"><b>Document Intelligence</b></td>
+<td valign="top"><b>Agentic Systems &amp; Automation</b></td>
+<td valign="top"><b>Media Forensics</b></td>
+</tr>
+</table>
+
+---
+
 ## ◆ Stack
 
 <table>
@@ -131,10 +182,11 @@ An end-to-end edge detection pipeline: train, optimise, deploy to a Raspberry Pi
 
 ## ◆ Writing
 
-<!-- BLOG:START -->- **[What Is Jev? TypeSafe’s System One Model, Explained](https://medium.com/@mithilmaske/what-is-jev-typesafes-system-one-model-explained-b0a4d98ec263?source=rss-8d19d7c20101------2)**<br/><sub>September 26, 2026</sub>
-- **[I Built STAIR From Scratch: A Retriever That Returns Section Names, Not Chunk IDs](https://medium.com/@mithilmaske/i-built-stair-from-scratch-a-retriever-that-returns-section-names-not-chunk-ids-22882a7b4cd8?source=rss-8d19d7c20101------2)**<br/><sub>September 20, 2026</sub>
-- **[I Built a Multimodal Embedding Model From Scratch on an RTX 4060 &lpar;Text, Image, Audio, and Video…](https://medium.com/@mithilmaske/i-built-a-multimodal-embedding-model-from-scratch-on-an-rtx-4060-text-image-audio-and-video-ab1fef04f1cd?source=rss-8d19d7c20101------2)**<br/><sub>August 22, 2026</sub>
-- **[How I implemented Self-Adapting Language Models with LoRA and QLoRA on an RTX 4060](https://medium.com/@mithilmaske/how-i-implemented-self-adapting-language-models-with-lora-and-qlora-on-an-rtx-4060-3d7e16a4d19e?source=rss-8d19d7c20101------2)**<br/><sub>July 25, 2026</sub>
+<!-- BLOG:START -->
+- **[What Is Jev? TypeSafe’s System One Model, Explained](https://medium.com/@mithilmaske/what-is-jev-typesafes-system-one-model-explained-b0a4d98ec263)**<br/><sub>September 26, 2026</sub>
+- **[I Built STAIR From Scratch: A Retriever That Returns Section Names, Not Chunk IDs](https://medium.com/@mithilmaske/i-built-stair-from-scratch-a-retriever-that-returns-section-names-not-chunk-ids-22882a7b4cd8)**<br/><sub>September 20, 2026</sub>
+- **[I Built a Multimodal Embedding Model From Scratch on an RTX 4060 &lpar;Text, Image, Audio, and Video…](https://medium.com/@mithilmaske/i-built-a-multimodal-embedding-model-from-scratch-on-an-rtx-4060-text-image-audio-and-video-ab1fef04f1cd)**<br/><sub>August 22, 2026</sub>
+- **[How I implemented Self-Adapting Language Models with LoRA and QLoRA on an RTX 4060](https://medium.com/@mithilmaske/how-i-implemented-self-adapting-language-models-with-lora-and-qlora-on-an-rtx-4060-3d7e16a4d19e)**<br/><sub>July 25, 2026</sub>
 <!-- BLOG:END -->
 
 <sub><a href="https://medium.com/@mithilmaske">Everything on Medium &rarr;</a></sub>
@@ -160,7 +212,7 @@ An end-to-end edge detection pipeline: train, optimise, deploy to a Raspberry Pi
 </p>
 
 <p align="center">
-  <sub>Open to research collaborations and applied AI work &mdash; <a href="https://www.linkedin.com/in/mithil-maske/">reach me on LinkedIn</a>.</sub>
+  <sub>Open to research collaborations and applied AI work &mdash; <a href="mailto:mithilm21@gmail.com">email</a> &middot; <a href="https://calendly.com/mithilm21/30min">book a call</a> &middot; <a href="https://www.linkedin.com/in/mithil-maske/">LinkedIn</a></sub>
 </p>
 
 <p align="center">

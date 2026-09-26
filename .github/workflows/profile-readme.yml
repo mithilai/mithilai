@@ -52,5 +52,8 @@ jobs:
           feed_list: "https://medium.com/feed/@mithilmaske"
           max_post_count: 4
           date_format: "mmmm d, yyyy"
+          # Put the list on its own lines. Without this the first post lands on
+          # the <!-- BLOG:START --> line and GitHub renders it as raw text.
+          tag_post_pre_newline: true
           template: '- **[$title]($url)**<br/><sub>$date</sub>$newline'
           readme_path: "./README.md"
