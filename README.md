@@ -16,6 +16,7 @@
   <a href="https://medium.com/@mithilmaske"><img src="https://img.shields.io/badge/Medium-1F2430?style=for-the-badge&logo=medium&logoColor=F5A623" /></a>
   <a href="https://www.youtube.com/@mithilmaske"><img src="https://img.shields.io/badge/YouTube-1F2430?style=for-the-badge&logo=youtube&logoColor=F5A623" /></a>
   <a href="https://www.linkedin.com/in/mithil-maske/"><img src="https://img.shields.io/badge/LinkedIn-1F2430?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Y1QTYyMyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8+PC9zdmc+" /></a>
+  <a href="https://www.instagram.com/mithilmaske/"><img src="https://img.shields.io/badge/Instagram-1F2430?style=for-the-badge&logo=instagram&logoColor=F5A623" /></a>
   <a href="https://huggingface.co/Mithil-AI"><img src="https://img.shields.io/badge/Hugging%20Face-1F2430?style=for-the-badge&logo=huggingface&logoColor=F5A623" /></a>
 </p>
 
@@ -94,13 +95,13 @@ The invisible fingerprinting technique Netflix and music labels use to catch pir
 </td>
 <td width="50%" valign="top">
 
-### [YOLOv8 License Plate](https://github.com/mithilai/YOLOv8-License-Plate)
+### [STAIR](https://github.com/mithilai/stair-toc-retrieval)
 
-An end-to-end edge detection pipeline: train, optimise, deploy to a Raspberry Pi. Native Keras and KerasCV, **no Ultralytics licence required**.
+A retriever that returns **real section titles instead of chunk IDs**. An open reimplementation of STAIR, with constrained decoding over a trie so it can never cite a section that doesn't exist. Mistral-7B QLoRA in 5GB.
 
-`KerasCV` · `TFLite` · `CoreML` · `edge`
+`Mistral-7B` · `QLoRA` · `generative retrieval`
 
-[![Write-up](https://img.shields.io/badge/write--up-Medium-F5A623?style=flat-square&labelColor=0B0C0F)](https://medium.com/@mithilmaske/i-built-a-license-plate-detector-that-runs-on-a-raspberry-pi-no-ultralytics-license-required-7b1d15eaa069)
+[![Write-up](https://img.shields.io/badge/write--up-Medium-F5A623?style=flat-square&labelColor=0B0C0F)](https://medium.com/@mithilmaske/i-built-stair-from-scratch-a-retriever-that-returns-section-names-not-chunk-ids-22882a7b4cd8)
 
 </td>
 </tr>
